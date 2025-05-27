@@ -4,7 +4,8 @@ Make Sentiment Analysis on Amazon Product review Using TF-IDF Vectorizer and Log
 his project performs sentiment analysis on Amazon product reviews.
 
 
---Data Loading and Preprocessing:
+- Data Loading and Preprocessing:
+
 The dataset is downloaded from Kaggle using kagglehub.
 The dataset is loaded into a pandas DataFrame.
 Missing values are handled by dropping rows with nulls.
@@ -13,7 +14,9 @@ A cleaning function is applied to the combined text to lowercase, remove HTML ta
 Stopwords are removed from the cleaned text.
 
 
---Model Training and Evaluation:
+- Model Training and Evaluation:
+
+
 The data is split into training and testing sets.
 A pipeline is created using TfidfVectorizer for feature extraction and LogisticRegression for classification.
 The model is trained on the training data.
