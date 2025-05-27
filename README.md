@@ -23,3 +23,7 @@ The model is trained on the training data.
 Predictions are made on the test data.
 The model's performance is evaluated using accuracy, classification report, and confusion matrix.
 A confusion matrix plot is generated.
+
+Confusion Matrix of Model Evalution:
+
+![Image](https://github.com/user-attachments/assets/a1465374-324d-4373-8d8b-83c19770bdca)
