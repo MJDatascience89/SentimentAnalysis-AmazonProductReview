@@ -26,4 +26,4 @@ A confusion matrix plot is generated.
 
 Confusion Matrix of Model Evalution:
 
-![Image](https://github.com/user-attachments/assets/a1465374-324d-4373-8d8b-83c19770bdca)
+![Image](https://github.com/user-attachments/assets/af13770a-727b-4cfe-920f-f60a1d9f1a70)
